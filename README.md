@@ -1,11 +1,11 @@
 # Flappy Bird Android Game
 
-A classic Flappy Bird clone built for Android devices with beautiful Studio Ghibli-inspired graphics. Navigate the bird through bamboo pipes by tapping to flap and avoid obstacles in this charming, procedurally generated world!
+A classic Flappy Bird clone built for Android devices with some graphics. Navigate the bird through bamboo pipes by tapping to flap and avoid obstacles in this charming, procedurally generated world!
 
 ## 🎮 Features
 
 - **Smooth Gameplay**: 60 FPS OpenGL ES rendering with physics-based bird movement
-- **Studio Ghibli-Inspired Art**: Procedurally generated textures featuring cute birds, bamboo pipes, cherry blossom trees, fluffy clouds, rolling hills, and a warm sun
+- **Art**: Procedurally generated textures featuring cute birds, bamboo pipes, cherry blossom trees, fluffy clouds, rolling hills, and a warm sun
 - **Random Pipe Generation**: Procedurally generated bamboo pipe obstacles with gaps
 - **Score System**: Track your high score as you pass through pipes
 - **Collision Detection**: Precise hit detection for pipes and boundaries
@@ -93,7 +93,7 @@ app/
 
 ## 🎨 Art Style
 
-This game features a unique Studio Ghibli-inspired art style with procedurally generated textures:
+This game features a unique art style with procedurally generated textures:
 
 - **Bird**: Cute cartoon bird with soft colors, expressive eyes, and gentle wings
 - **Pipes**: Bamboo-style pipes with green gradients and rim highlights
@@ -119,7 +119,6 @@ This project is open source and available under the MIT License.
 ## 🙏 Acknowledgments
 
 - Inspired by the original Flappy Bird game
-- Art style inspired by Studio Ghibli films
 - Built with Android Studio, Java, and OpenGL ES
 - Thanks to the Android developer community
 
